@@ -2,7 +2,7 @@
 
 This project is a modern and responsive car rental application. Users can view detailed features of different car models by hovering over them, and filter available models based on their preferences.
 
-🔗 Live Demo: [Car Rental App with TS](https://note-app-vert-sigma.vercel.app/)  
+🔗 Live Demo: [Car Rental App with TS](https://car-rental-sable-eight.vercel.app/)  
 🔗 GitHub Repository: [GitHub Repo](https://github.com/kisisellhesap/car-rental)
 
 # 🚀 Features
