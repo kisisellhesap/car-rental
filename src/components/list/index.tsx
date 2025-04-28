@@ -9,7 +9,7 @@ const List: FC = () => {
   const [cars, setCars] = useState<ICar[] | null>(null);
   const [error, setError] = useState<string | null>(null);
 
-  const [params, setParams] = useSearchParams();
+  const [params] = useSearchParams();
 
   const paramsObj = Object.fromEntries(params.entries());
   useEffect(() => {

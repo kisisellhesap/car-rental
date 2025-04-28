@@ -3,7 +3,7 @@
 This project is a modern and responsive car rental application. Users can view detailed features of different car models by hovering over them, and filter available models based on their preferences.
 
 🔗 Live Demo: [Car Rental App with TS](https://note-app-vert-sigma.vercel.app/)  
-🔗 GitHub Repository: [GitHub Repo](https://github.com/kisisellhesap/note-app)
+🔗 GitHub Repository: [GitHub Repo](https://github.com/kisisellhesap/car-rental)
 
 # 🚀 Features
 
@@ -32,3 +32,5 @@ This project is a modern and responsive car rental application. Users can view d
 - TailwindCSS 4
 - Motion (for animations)
 - Vite (for fast development and bundling)
+
+![](car-rental.gif)
